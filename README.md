@@ -12,4 +12,4 @@ Currently the use property only takes in two libraries which are jQuery UI and b
 to enter include these libraries type bt or bootstrap in lowercase for including bootstrap and use jqui or jquery_ui for including jQuery UI.
 
 
-Report any error that you may see
+Report errors or bugs
