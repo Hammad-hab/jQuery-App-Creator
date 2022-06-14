@@ -10,3 +10,6 @@ At the moment the <code>App.json</code> only takes two properties:
 use which is an array and takes in the libraries you want to include and default which takes your default workspace url.
 Currently the use property only takes in two libraries which are jQuery UI and bootstrap.
 to enter include these libraries type bt or bootstrap in lowercase for including bootstrap and use jqui or jquery_ui for including jQuery UI.
+
+
+Report any error that you may see
